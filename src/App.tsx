@@ -7,6 +7,7 @@ function App() {
       <div>
         <AlbumPicker />
         <h1>NETLIFY TEST</h1>
+        <p>This is my NETLIFY TEST</p>
       </div>
     </>
   );
